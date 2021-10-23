@@ -46,11 +46,10 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<p align="center">
+<!-- <p align="center"> -->
 <a href="https://www.linkedin.com/in/darshan-kotian-1275051a0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Darshan%20Kotian-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/darshan_kotian15/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-darshan_kotian15-blue?style=flat-square&logo=instagram"></a>
-</p>
+<!-- </p> -->
 <!-- <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
 
